@@ -1,0 +1,3 @@
+tekitou <- function() {
+  print("Hello!")
+}

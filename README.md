@@ -1,2 +1,3 @@
 # tekitou
-tekitou ni tukutta yo!
+
+type "tekitou()"!
