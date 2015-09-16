@@ -1,3 +1,4 @@
 # tekitou
 
 type "tekitou()"!
+kazutanしゅごい。
